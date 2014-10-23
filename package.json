@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.4.4",
+    "hbs": "2.7.0",
+    "node-uuid": "1.4.1",
+    "websocket": "1.0.8"
+  }
+}
